@@ -1,6 +1,6 @@
-Project Dodelido
+Project MilfyWay
 
-This README is for the robot Dodelido, it details all of the robots functions and sections of testing code.
+This README is for the robot MilfyWay, it details all of the robots functions and sections of testing code.
 
 Authors:
 
@@ -34,7 +34,7 @@ Arduino IDE for C++ configured.
 
 Installation Clone the repository:
 
-git clone https://github.com/Jordana-GC/Battle-Bot.git
+git clone git@github.com:Jordana-GC/Project-BattleBot.git
 
 Copy code
 
@@ -52,4 +52,4 @@ Usage:
 
 Support:
 
-For support, email mihaela.covali@student.nhlstenden.com or jordana.guilbride.capela@student.nhlstenden.com.
+For support, email jordana.guilbride.capela@student.nhlstenden.com or mihaela.covali@student.nhlstenden.com.
