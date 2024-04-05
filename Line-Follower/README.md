@@ -1,16 +1,15 @@
 
-█▀█ █▀█ █▀█ ░░█ █▀▀ █▀▀ ▀█▀   █▀▀ █▀█ █░░ █▀▄   █▄░█ █░█ █▀▀ █▀▀ █▀▀ ▀█▀ █▀
-█▀▀ █▀▄ █▄█ █▄█ ██▄ █▄▄ ░█░   █▄█ █▄█ █▄▄ █▄▀   █░▀█ █▄█ █▄█ █▄█ ██▄ ░█░ ▄█
+Ｐｒｏｊｅｃｔ Ｇｏｌｄ Ｎｕｇｇｅｔｓ
 
 This README is for the robot Gold Nuggest, it details all of the robots functions and sections of testing code.
 
-Authors:
+Ａｕｔｈｏｒｓ:
 
 @AnaMariaOlaruNHLstenden
 
 @Fiziko00
 
-Overview:
+Ｏｖｅｒｖｉｅｗ:
 
 This project focuses on programming a robot to excel in a game namely a Follow the Line
 
@@ -18,7 +17,7 @@ The goal is to implement algorithms in C++ to navigate and solve challenges in t
 
 This README provides essential information to get started with the project.
 
-Features:
+Ｆｅａｔｕｒｅｓ:
 
 Scanning the values with the reflection sensor algorithms implementation.
 
@@ -28,7 +27,7 @@ Visualization of the robot's avoid the object path.
 
 Easy to take apart and reuseable code.
 
-Prerequisites:
+Ｐｒｅｒｅｑｕｉｓｉｔｅｓ:
 
 C++ compiler installed.
 
@@ -46,13 +45,14 @@ Paste the code.
 
 Make sure the pins are according to the code.
 
-Usage:
+Ｕｓａｇｅ:
 
 OPEN the code in Visual Studio PlatformIO. Connect the robot to the computer/ laptop through the USB cable
 ⁠Run the code
 ⁠Deploy the robot
 ⁠Switch the robot on
-Support:
+
+Ｓｕｐｐｏｒｔ:
 
 For support, email 
 ana.olaru@student.nhlstenden.com
